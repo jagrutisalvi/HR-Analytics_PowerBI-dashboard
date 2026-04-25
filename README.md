@@ -34,4 +34,4 @@ This project analyzes HR data to understand employee attrition, workforce trends
 The dashboard helps identify attrition patterns and workforce trends, enabling better HR decisions.
 
 ## 🔗 Project Link
-(Add your GitHub repository link here)
+https://github.com/jagrutisalvi/HR-Analytics_PowerBI-dashboard.git
